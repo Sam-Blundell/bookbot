@@ -1,2 +1,2 @@
 # bookbot
-my first project in python
+python script test
